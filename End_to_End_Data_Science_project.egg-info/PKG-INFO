@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: End-to-End-Data-Science-project
+Version: 0.0.1
+Author: Aryan Dixit
+Author-email: aryandixit1512@gmail.com
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
